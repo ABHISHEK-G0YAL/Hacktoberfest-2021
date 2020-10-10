@@ -24,9 +24,8 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 
 ### 📢 **First register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and then make four pull requests (PRs) between October 1st-31st to grab free SWAGS 🔥.**
 
-[https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
+### [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
----
 # How to contribute to this project -
 ### Method 1 (Using Browser)
 1. Open [index.md](./index.md)
