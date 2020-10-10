@@ -1,1 +1,9 @@
-theme: jekyll-theme-midnight
+title: Hactoberfest 2020
+
+url: "https://abhishek-g0yal.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
+baseurl: "/hacktober" # the subpath of your site, e.g. /blog
+
+# syntax highlighter
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
