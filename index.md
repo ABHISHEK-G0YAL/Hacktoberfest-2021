@@ -6,3 +6,4 @@ layout: default
 **[Harshveer Singh](https://github.com/llStringll)** | Interested in theoretically understanding the generalization properties of neural networks
 **[Anmol Mittal](https://github.com/pulins222)** | I am just a coder.
 **[Firstname Lastname](https://github.com/first-last)** | Description description description.
+**[Hitesh Malhotra](https://github.com/CodeWithHitesh)** | Keen Learner. 
