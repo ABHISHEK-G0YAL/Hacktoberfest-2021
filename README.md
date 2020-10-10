@@ -26,6 +26,8 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 
 ### [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
+### **Please ⭐ this repo to make it more visible to new contributors.**
+
 ## **How to contribute to this project** -
 ### Method 1 (Using Browser)
 1. Open [index.md](./index.md)
