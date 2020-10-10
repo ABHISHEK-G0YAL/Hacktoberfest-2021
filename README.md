@@ -26,7 +26,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 
 ### [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
-## How to contribute to this project -
+## **How to contribute to this project -**
 ### Method 1 (Using Browser)
 1. Open [index.md](./index.md)
 2. Click on the "Edit this file" icon
