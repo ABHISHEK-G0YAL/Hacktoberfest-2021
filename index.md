@@ -15,7 +15,5 @@ layout: default
 **[Dimas Nurhilman](https://github.com/dimzt/)** | Hello World '-')/
 **[Nitansh Jain](https://github.com/nitanshjain)** | Undergrad, Ready to Learn
 **[Srishti Mittal](https://github.com/Chia2712)** | Perseverant and hard-working 
-**[Firstname Lastname](https://github.com/first-last)** | Description description description.
+**[Prerit Agrawal]((https://github.com/preritagrawal)** | I saw Pink vent
 **[Shruty Khulllar](https://github.com/shruty-khullar)** | Ready to learn
-
-
