@@ -23,3 +23,4 @@ layout: default
 **[Nandita Bagga](https://github.com/Nandita-Bagga)** | coder
 **[Kunwar Apoorvaditya](https://github.com/kunwar-code)** | first pull request
 **[Shivansh Kapoor](https://github.com/kapoor2902)** | always strive towards success
+**[Ananya Thomas](https://github.com/ananyathomas)** | Just someone who is very different yet in a way just like you. 
