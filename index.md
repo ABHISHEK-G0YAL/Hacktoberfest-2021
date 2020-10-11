@@ -8,3 +8,4 @@ layout: default
 **[Hitesh Malhotra](https://github.com/CodeWithHitesh)** | Keen Learner. 
 **[Utkarsh Kansal](https://github.com/utkarshkansal17)** | Data Scientist AI Machine Learning.
 **[Firstname Lastname](https://github.com/first-last)** | Description description description.
+**[Puranjay Singh](https://github.com/purjaysin)**|Towards the top!
