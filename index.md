@@ -15,3 +15,4 @@ layout: default
 **[Dimas Nurhilman](https://github.com/dimzt/)** | Hello World '-')/
 **[Nitansh Jain](https://github.com/nitanshjain)** | Undergrad, Ready to Learn
 **[Firstname Lastname](https://github.com/first-last)** | Description description description.
+**[Karamjit Singh Bedi] (https://github.com/why-kj-why)** | cout<<"Sup?";
