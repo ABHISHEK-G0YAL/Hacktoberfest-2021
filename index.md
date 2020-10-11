@@ -8,4 +8,5 @@ layout: default
 **[Hitesh Malhotra](https://github.com/CodeWithHitesh)** | Keen Learner. 
 **[Utkarsh Kansal](https://github.com/utkarshkansal17)** | Data Scientist AI Machine Learning.
 **[Muhammad Tabish](https://github.com/mtabishk)** | Undergrad, Programmer.
+**[Himank Jindal](https://github.com/himankjindal)** | Vigilant.
 **[Firstname Lastname](https://github.com/first-last)** | Description description description.
