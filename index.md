@@ -11,5 +11,5 @@ layout: default
 **[Himank Jindal](https://github.com/himankjindal)** | Vigilant.
 **[Puranjay Singh](https://github.com/purjaysin)**|Towards the top!
 **[Ishita Nandwani](https://github.com/ishita4416)**| Always up for Learning
-**[Kriti Singhal](https://github.com/Kriti-bit)**|Observant, always willing to learn.
+**[Nitansh Jain](https://github.com/nitanshjain)** | Undergrad, Ready to Learn
 **[Firstname Lastname](https://github.com/first-last)** | Description description description.
