@@ -17,5 +17,6 @@ layout: default
 **[Karamjit Singh Bedi] (https://github.com/why-kj-why)** | cout<<"Sup?";
 **[Dhanika Grover](https://github.com/dhanika08)** | My first pull request 
 **[Srishti Mittal](https://github.com/Chia2712)** | Perseverant and hard-working 
+**[Harsh Kumar](https://github.com/TheHarshCoder)** | Hello World 
 **[Prerit Agrawal]((https://github.com/preritagrawal)** | I saw Pink vent
 **[Shruty Khulllar](https://github.com/shruty-khullar)** | Ready to learn
