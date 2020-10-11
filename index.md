@@ -10,3 +10,4 @@ layout: default
 **[Muhammad Tabish](https://github.com/mtabishk)** | Undergrad, Programmer.
 **[Himank Jindal](https://github.com/himankjindal)** | Vigilant.
 **[Firstname Lastname](https://github.com/first-last)** | Description description description.
+**[Ishita Nandwani](https://github.com/ishita4416)**| Always up for Learning
