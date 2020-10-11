@@ -16,3 +16,6 @@ layout: default
 **[Nitansh Jain](https://github.com/nitanshjain)** | Undergrad, Ready to Learn
 **[Srishti Mittal](https://github.com/Chia2712)** | Perseverant and hard-working 
 **[Firstname Lastname](https://github.com/first-last)** | Description description description.
+**[Shruty Khulllar](https://github.com/shruty-khullar)** | Ready to learn
+
+
