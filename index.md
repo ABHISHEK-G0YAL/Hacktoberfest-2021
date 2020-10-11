@@ -20,5 +20,6 @@ layout: default
 **[Prerit Agrawal](https://github.com/preritagrawal)** | I saw Pink vent
 **[Shruty Khulllar](https://github.com/shruty-khullar)** | Ready to learn
 **[Karamjit Singh Bedi](https://github.com/why-kj-why)** | cout<<"Sup?";
-**[Nandita Bagga](https://github.com/Nandita-Bagga)**|coder
-**[Kunwar Apoorvaditya](https://github.com/kunwar-code)**| first pull request
+**[Nandita Bagga](https://github.com/Nandita-Bagga)** | coder
+**[Kunwar Apoorvaditya](https://github.com/kunwar-code)** | first pull request
+**[Shivansh Kapoor](https://github.com/kapoor2902)** | always strive towards success
