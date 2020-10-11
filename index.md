@@ -1,4 +1,4 @@
----
+**[Srishti Garg](https://github.com/srishti73)** | Undergraduate, inquisitive
 layout: default
 ---
 **[Abhishek Goyal](https://github.com/ABHISHEK-G0YAL)** | Undergrad, aimed at creating AGI.
