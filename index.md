@@ -7,4 +7,5 @@ layout: default
 **[Anmol Mittal](https://github.com/pulins222)** | I am just a coder.
 **[Hitesh Malhotra](https://github.com/CodeWithHitesh)** | Keen Learner. 
 **[Utkarsh Kansal](https://github.com/utkarshkansal17)** | Data Scientist AI Machine Learning.
+**[Himank Jindal](https://github.com/himankjindal)** | Vigilant.
 **[Firstname Lastname](https://github.com/first-last)** | Description description description.
