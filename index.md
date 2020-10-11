@@ -20,3 +20,4 @@ layout: default
 **[Prerit Agrawal](https://github.com/preritagrawal)** | I saw Pink vent
 **[Shruty Khulllar](https://github.com/shruty-khullar)** | Ready to learn
 **[Karamjit Singh Bedi](https://github.com/why-kj-why)** | cout<<"Sup?";
+**[Nandita Bagga](https://github.com/Nandita-Bagga)**|coder
