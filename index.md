@@ -25,4 +25,5 @@ layout: default
 **[Shivansh Kapoor](https://github.com/kapoor2902)** | always strive towards success
 **[Ananya Thomas](https://github.com/ananyathomas)** | Just someone who is very different yet in a way just like you. 
 **[Adarsh Kumar](https://github.com/iamadarshk)** | bruh
+**[Aryan Gupta](https://github.com/1611Aryan)** |..
 **[Arshdeep Singh](https://github.com/arshdeepsk)** | T-shirt No. 3 xD
