@@ -28,3 +28,4 @@ layout: default
 **[Aryan Gupta](https://github.com/1611Aryan)** |..
 **[Arshdeep Singh](https://github.com/arshdeepsk)** | T-shirt No. 3 xD
 **[Akshit Arora](https://github.com/akshit-wq)** | It's my first pull request
+**[Ches ter](https://github.com/saycheeseter)** | ..
