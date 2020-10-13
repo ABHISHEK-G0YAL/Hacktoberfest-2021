@@ -13,6 +13,7 @@ layout: default
 **[Ishita Nandwani](https://github.com/ishita4416)** | Always up for Learning
 **[Kriti Singhal](https://github.com/Kriti-bit)** | Observant, always willing to learn.
 **[Dimas Nurhilman](https://github.com/dimzt/)** | Hello World '-')/
+**[Shivansh Kapoor](https://github.com/kapoor2902)|Strive towards success
 **[Nitansh Jain](https://github.com/nitanshjain)** | Undergrad, Ready to Learn
 **[Dhanika Grover](https://github.com/dhanika08)** | My first pull request 
 **[Srishti Mittal](https://github.com/Chia2712)** | Perseverant and hard-working 
