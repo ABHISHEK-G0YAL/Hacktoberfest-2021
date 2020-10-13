@@ -13,6 +13,7 @@ layout: default
 **[Ishita Nandwani](https://github.com/ishita4416)** | Always up for Learning
 **[Kriti Singhal](https://github.com/Kriti-bit)** | Observant, always willing to learn.
 **[Dimas Nurhilman](https://github.com/dimzt/)** | Hello World '-')/
+**[Shivansh Kapoor](https://github.com/kapoor2902)|Strive towards success
 **[Nitansh Jain](https://github.com/nitanshjain)** | Undergrad, Ready to Learn
 **[Dhanika Grover](https://github.com/dhanika08)** | My first pull request 
 **[Srishti Mittal](https://github.com/Chia2712)** | Perseverant and hard-working 
@@ -27,3 +28,9 @@ layout: default
 **[Adarsh Kumar](https://github.com/iamadarshk)** | bruh
 **[Aryan Gupta](https://github.com/1611Aryan)** |..
 **[Arshdeep Singh](https://github.com/arshdeepsk)** | T-shirt No. 3 xD
+**[Akshit Arora](https://github.com/akshit-wq)** | It's my first pull request
+**[Divyansha Arora](https://github.com/divyansha-coder)** | It's my first pull request
+**[Ches ter](https://github.com/saycheeseter)** | ..
+**[Mudit Saxena](https://github.com/mudit2909)** | First step towards exploring Open Source
+**[Kushagra Singh](https://github.com/perkymaster)** | Undergrad and a Streamer on twitch
+**[Sumit Mathur](https://github.com/Mathur777)** | My pull request.
