@@ -34,3 +34,4 @@ layout: default
 **[Mudit Saxena](https://github.com/mudit2909)** | First step towards exploring Open Source
 **[Kushagra Singh](https://github.com/perkymaster)** | Undergrad and a Streamer on twitch
 **[Sumit Mathur](https://github.com/Mathur777)** | My pull request.
+**[Surabhi Mishra](https://github.com/SurabhiMishra)**|Python Coder, Good Orator, Keen learner.
