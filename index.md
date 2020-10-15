@@ -34,4 +34,5 @@ layout: default
 **[Mudit Saxena](https://github.com/mudit2909)** | First step towards exploring Open Source
 **[Kushagra Singh](https://github.com/perkymaster)** | Undergrad and a Streamer on twitch
 **[Sumit Mathur](https://github.com/Mathur777)** | My pull request.
+**[Shivam Goel](https://github.com/shiv-am117)** | Hacktoberfest.
 **[Kashyap Sojitra](https://github.com/kashyap-sojitra)** | Starting to contribute to opensource.
