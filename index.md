@@ -1,4 +1,4 @@
----
+**[Srishti Garg](https://github.com/srishti73)** | Undergraduate, inquisitive
 layout: default
 ---
 **[Abhishek Goyal](https://github.com/ABHISHEK-G0YAL)** | Undergrad, aimed at creating AGI.
@@ -34,5 +34,6 @@ layout: default
 **[Mudit Saxena](https://github.com/mudit2909)** | First step towards exploring Open Source
 **[Kushagra Singh](https://github.com/perkymaster)** | Undergrad and a Streamer on twitch
 **[Sumit Mathur](https://github.com/Mathur777)** | My pull request.
+**[Shivam Goel](https://github.com/shiv-am117)** | Hacktoberfest.
 **[Kashyap Sojitra](https://github.com/kashyap-sojitra)** | Starting to contribute to opensource.
 **[Rukshan Uddin](https://github.com/rukshanuddin)** | Full-Stack Teaching Assistant at UT of Austin.
