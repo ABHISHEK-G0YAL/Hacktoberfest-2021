@@ -35,3 +35,4 @@ layout: default
 **[Kushagra Singh](https://github.com/perkymaster)** | Undergrad and a Streamer on twitch
 **[Sumit Mathur](https://github.com/Mathur777)** | My pull request.
 **[Kashyap Sojitra](https://github.com/kashyap-sojitra)** | Starting to contribute to opensource.
+**[Rukshan Uddin](https://github.com/rukshanuddin)** | Full-Stack Teaching Assistant at UT of Austin.
