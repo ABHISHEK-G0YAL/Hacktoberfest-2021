@@ -37,4 +37,5 @@ layout: default
 **[Surabhi Mishra](https://github.com/SurabhiMishra)** | Python Coder, Good Orator, Keen learner.
 **[Shivam Goel](https://github.com/shiv-am117)** | Hacktoberfest.
 **[Kashyap Sojitra](https://github.com/kashyap-sojitra)** | Starting to contribute to opensource.
+**[Rukshan Uddin](https://github.com/rukshanuddin)** | Full-Stack Teaching Assistant at UT of Austin.
 **[Srishti Garg](https://github.com/srishti73)** | Undergraduate, inquisitive
