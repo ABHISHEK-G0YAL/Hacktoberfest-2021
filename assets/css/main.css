@@ -1,16 +1,16 @@
 html[data-theme="dark"] {
-  --bold-color: #ffffff;
+  --bold-color: hsl(0, 0%, 20%); ;
   --box-background-color: hsl(0, 0%, 20%);
   --highlight-color: hsl(0, 0%, 60%);
   --light-border-color: hsl(0, 0%, 30%);
   --light-text-color: rgb(199, 199, 204);
   --link-color: #ea88d1;
-  --link-color-visited: hsl(250, 100%, 60%);
+  --link-color-visited: hsl(150, 100%, 60%);
   --main-background-color: #072540;
   --main-text-color: #93c2db;
   --medium-text-color: hsl(0, 0%, 70%);
   --underline-color: hsl(0, 0%, 50%);
-  --social-link-color: #ffffff;
+  --social-link-color: lavender;
   --card-background-color: #183d5d;
   --newsletter-background-color: #222324;
   --button-background-color: #111;
@@ -248,7 +248,7 @@ footer {
   left: 15px;
   top: 5px;
   transform-origin: 53px 10px;
-  background-color: transparent;
+  background-color: lightcoral;
   box-shadow: 5px -1px 0px #fff;
   filter: blur(0px);
   animation: sun .7s forwards ease;
