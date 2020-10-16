@@ -40,3 +40,4 @@ layout: default
 **[Rukshan Uddin](https://github.com/rukshanuddin)** | Full-Stack Teaching Assistant at UT of Austin.
 **[Srishti Garg](https://github.com/srishti73)** | Undergraduate, inquisitive
 **[Dev Kumar](https://github.com/RaX-D)** | My first pull request
+**[Arpit Maurya](https://github.com/arpitm859)** | EE Undergraduate at Indian Institute of Technology (IIT) Goa || Frontend developer with ReactJs
