@@ -39,3 +39,4 @@ layout: default
 **[Kashyap Sojitra](https://github.com/kashyap-sojitra)** | Starting to contribute to opensource.
 **[Rukshan Uddin](https://github.com/rukshanuddin)** | Full-Stack Teaching Assistant at UT of Austin.
 **[Srishti Garg](https://github.com/srishti73)** | Undergraduate, inquisitive
+**[Arpit Maurya](https://github.com/arpitm859)** | EE Undergraduate at Indian Institute of Technology (IIT) Goa || Frontend developer with ReactJs
