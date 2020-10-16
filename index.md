@@ -41,3 +41,4 @@ layout: default
 **[Srishti Garg](https://github.com/srishti73)** | Undergraduate, inquisitive
 **[Dev Kumar](https://github.com/RaX-D)** | My first pull request
 **[Arpit Maurya](https://github.com/arpitm859)** | EE Undergraduate at Indian Institute of Technology (IIT) Goa || Frontend developer with ReactJs
+**[Abhay Dogra](https://github.com/ABDthePRO)** | Started Forking and would like to contribute to the open source community.
