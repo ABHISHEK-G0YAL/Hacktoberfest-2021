@@ -44,3 +44,4 @@ layout: default
 **[Naman Jain](https://github.com/namannjain)** | Stressed, Blessed, Soccer Obsessed
 **[Abhay Dogra](https://github.com/ABDthePRO)** | Started Forking and would like to contribute to the open source community.
 **[Iswarya Chelliah](https://github.com/iswarya-chelliah)** | Exploring open source.
+**[Shivam Bachhety](https://github.com/shivambachhety)** |Dare to code.
