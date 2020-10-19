@@ -45,3 +45,4 @@ layout: default
 **[Abhay Dogra](https://github.com/ABDthePRO)** | Started Forking and would like to contribute to the open source community.
 **[Iswarya Chelliah](https://github.com/iswarya-chelliah)** | Exploring open source.
 **[Yashraj Jain](https://github.com/yashrajjain726)** | Exploring the uneven world through science.
+**[Shiny Olivia](https://github.com/olivia26)** | Exploring about machine learning. Actually would like to learn how to do practical hands-on.
