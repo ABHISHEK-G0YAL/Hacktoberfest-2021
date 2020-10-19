@@ -2,6 +2,7 @@
 layout: default
 ---
 **[Abhishek Goyal](https://github.com/ABHISHEK-G0YAL)** | Undergrad, aimed at creating AGI.
+**[Abhinav Jain](https://github.com/abhinavjain12)** | Intersted in Machine Learning
 **[Abhishek Maira](https://github.com/AbhishekMaira10)** | AI. Chess. Neuroscience. In that order !!
 **[Harshveer Singh](https://github.com/llStringll)** | Interested in theoretically understanding the generalization properties of neural networks
 **[Anmol Mittal](https://github.com/pulins222)** | I am just a coder.
@@ -44,6 +45,4 @@ layout: default
 **[Naman Jain](https://github.com/namannjain)** | Stressed, Blessed, Soccer Obsessed
 **[Abhay Dogra](https://github.com/ABDthePRO)** | Started Forking and would like to contribute to the open source community.
 **[Iswarya Chelliah](https://github.com/iswarya-chelliah)** | Exploring open source.
-**[Shivam Bachhety](https://github.com/shivambachhety)** |Dare to code.
-**[Yashraj Jain](https://github.com/yashrajjain726)** | Exploring the uneven world through science.
 **[Shiny Olivia](https://github.com/olivia26)** | Exploring about machine learning. Actually would like to learn how to do practical hands-on.
