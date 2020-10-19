@@ -48,4 +48,4 @@ layout: default
 **[Shivam Bachhety](https://github.com/shivambachhety)** |Dare to code.
 **[Yashraj Jain](https://github.com/yashrajjain726)** | Exploring the uneven world through science.
 **[Shiny Olivia](https://github.com/olivia26)** | Exploring about machine learning. Actually would like to learn how to do practical hands-on.
-**[Ashlin Dev](https://github.com/Ashlin21dev)** |Just a Rookie, Getting to know this Computerized world.
+**[Ashlin Dev](https://github.com/Ashlin21dev)** |Just a Rookie, Getting to know this Computerized world, still have a long way to go.
