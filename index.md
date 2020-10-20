@@ -49,3 +49,4 @@ layout: default
 **[Yashraj Jain](https://github.com/yashrajjain726)** | Exploring the uneven world through science.
 **[Shiny Olivia](https://github.com/olivia26)** | Exploring about machine learning. Actually would like to learn how to do practical hands-on.
 **[Saurabh Nikam](https://github.com/saurabh-nikam)** |Exploring the open source community.
+**[Alexander](https://github.com/ialexanderbrito)** | Developer Front-end ReactJS and React Native
