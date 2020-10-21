@@ -52,3 +52,4 @@ layout: default
 **[Saurabh Nikam](https://github.com/saurabh-nikam)** |Exploring the open source community.
 **[Alexander](https://github.com/ialexanderbrito)** | Developer Front-end ReactJS and React Native
 **[Jacob "Booch" Johnson](https://github.com/Jacobtjohnson)** | Software Development Student.
+**[Dashminder Singh](https://github.com/Dashminder-Singh)** | I like to code, exploring open source community.
