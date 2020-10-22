@@ -53,4 +53,5 @@ layout: default
 **[Alexander](https://github.com/ialexanderbrito)** | Developer Front-end ReactJS and React Native
 **[Jacob "Booch" Johnson](https://github.com/Jacobtjohnson)** | Software Development Student.
 **[Dashminder Singh](https://github.com/Dashminder-Singh)** | I like to code, exploring open source community.
+**[ZE Falcon](https://github.com/Ze-Falcon)** | Strive towards success
 **[Aakash aggarwal](https://github.com/asquaree)** | Started Forking and would like to contribute to the open source community.
