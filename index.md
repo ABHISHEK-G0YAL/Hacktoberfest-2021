@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+|Profile|Bio |
+|---|---|
 **[Abhishek Goyal](https://github.com/ABHISHEK-G0YAL)** | Undergrad, aimed at creating AGI.
 **[Abhinav Jain](https://github.com/abhinavjain12)** | Interested in Machine Learning !!
 **[Abhishek Maira](https://github.com/AbhishekMaira10)** | AI. Chess. Neuroscience. In that order !!
@@ -55,3 +57,4 @@ layout: default
 **[ZE Falcon](https://github.com/Ze-Falcon)** | Strive towards success
 **[Aakash aggarwal](https://github.com/asquaree)** | Started Forking and would like to contribute to the open source community.
 **[LokeshR](https://github.com/lokeshrajgadkar)** | I am a student who loves coding & I'm trying to learn from Github.
+**[SecSuperN0va](https://github.com/secsupernova)** | 
