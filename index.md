@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 **[Abhishek Goyal](https://github.com/ABHISHEK-G0YAL)** | Undergrad, aimed at creating AGI.
 **[Abhinav Jain](https://github.com/abhinavjain12)** | Interested in Machine Learning !!
 **[Abhishek Maira](https://github.com/AbhishekMaira10)** | AI. Chess. Neuroscience. In that order !!
