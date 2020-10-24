@@ -54,3 +54,4 @@ layout: default
 **[Dashminder Singh](https://github.com/Dashminder-Singh)** | I like to code, exploring open source community.
 **[ZE Falcon](https://github.com/Ze-Falcon)** | Strive towards success
 **[Aakash aggarwal](https://github.com/asquaree)** | Started Forking and would like to contribute to the open source community.
+**[LokeshR](https://github.com/lokeshrajgadkar)** | I am a student who loves coding & I'm trying to learn from Git.
