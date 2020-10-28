@@ -66,6 +66,10 @@ table {
   border-spacing: 0.2em 0.35em;
 }
 
+td {
+  vertical-align: top;
+}
+
 li {
   list-style-type: none;
 }
