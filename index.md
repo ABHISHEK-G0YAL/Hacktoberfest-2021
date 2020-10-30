@@ -60,3 +60,4 @@ layout: default
 **[archbotv](https://github.com/archbotv/)** | kotlin programmer
 **[Aayush Doshi](https://github.com/Aayush2610-git)**| So excited to make a contribution in the Github community. 
 **[Harsh](https://github.com/harsh-jindal)**| Open Source Contributor.
+**[Shailander kumar](https://github.com/sk013)**| self taught coder.
