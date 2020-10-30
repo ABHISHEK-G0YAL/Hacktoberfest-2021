@@ -62,3 +62,4 @@ layout: default
 **[Harsh](https://github.com/harsh-jindal)**| Open Source Contributor.
 **[Shailander kumar](https://github.com/sk013)**| self taught coder.
 **[Gilbish Kosma](https://github.com/GilbishKosma)**| Trying to focus on Frontend,Backend and Designing.
+**[Akhil Pillai](https://github.com/Akhil-Pillai)**| Making applications for the web
