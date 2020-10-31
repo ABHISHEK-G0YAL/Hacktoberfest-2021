@@ -64,3 +64,4 @@ layout: default
 **[Gilbish Kosma](https://github.com/GilbishKosma)**| Trying to focus on Frontend,Backend and Designing.
 **[Akhil Pillai](https://github.com/Akhil-Pillai)**| Making applications for the web
 **[Chelsey Kavulu](https://github.com/chelseykavulu)**| I am a student who has intrest in coding 
+**[Rishabh Dixit](https://github.com/devlearner011)**| Learning code
