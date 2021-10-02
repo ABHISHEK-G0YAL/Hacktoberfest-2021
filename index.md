@@ -10,6 +10,7 @@ layout: default
 **[Utkarsh Kansal](https://github.com/utkarshkansal17)** | Data Scientist AI Machine Learning.
 **[Muhammad Tabish](https://github.com/mtabishk)** | Undergrad, Programmer.
 **[Himank Jindal](https://github.com/himankjindal)** | Vigilant.
+**[Vivek Gonal](https://github.com/VivekGonal)** | Eat Sleep Code Repeat!!
 **[Puranjay Singh](https://github.com/purjaysin)** | Towards the top!
 **[Ishita Nandwani](https://github.com/ishita4416)** | Always up for Learning
 **[Kriti Singhal](https://github.com/Kriti-bit)** | Observant, always willing to learn.
