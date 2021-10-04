@@ -66,4 +66,5 @@ layout: default
 **[Akhil Pillai](https://github.com/Akhil-Pillai)**| Making applications for the web
 **[Chelsey Kavulu](https://github.com/chelseykavulu)**| I am a student who has intrest in coding 
 **[Rishabh Dixit](https://github.com/devlearner011)**| Learning code
+**[Vipin Talreja](https://github.com/Vipinnnn)**| Web-Developer Front-end ReactJS
 **[Prithviraj Chavan](https://github.com/prithvirajvesit)**|Learn open source 
