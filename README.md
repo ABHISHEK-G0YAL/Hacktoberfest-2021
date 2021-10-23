@@ -1,13 +1,13 @@
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
-        <img src="assets/hacktober-logo.svg" width="30%">
+        <img src="assets/hacktober-logo-2021.svg" width="30%">
     </a>
 </p>
 
-<h1 align="center"> Hacktoberfest 2020 🎉</h1>
+<h1 align="center"> Hacktoberfest 2021 🎉</h1>
 
 <div align="center">
-<img src="https://img.shields.io/badge/hacktoberfest-2020-blueviolet" alt="Hacktober Badge"/>
+<img src="https://img.shields.io/badge/hacktoberfest-2021-blueviolet" alt="Hacktober Badge"/>
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <a href="https://github.com/abhishek-g0yal" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
 <a href="https://github.com/abhishek-g0yal" ><img src="https://img.shields.io/github/followers/abhishek-g0yal.svg?label=Follow%20@abhishek-g0yal&style=social" alt="GitHub"/> </a>
@@ -17,7 +17,7 @@
 <a href="https://github.com/abhishek-g0yal/Hacktoberfest-2020/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhishek-g0yal/Hacktoberfest-2020?color=2b9348" alt="License Badge"/></a>
 </div>
 
-### 🗣 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2020 challenge and earn a limited edition T-shirt.
+### 🗣 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt.
 
 ## What is Hacktoberfest?
 A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
