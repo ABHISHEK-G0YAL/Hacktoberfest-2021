@@ -70,3 +70,4 @@ layout: default
 **[Prithviraj Chavan](https://github.com/prithvirajvesit)**|Learn open source 
 **[Mayank Rawat](https://github.com/MayankRawat06)**| A Student, Developer and a Crypto Enthusiast
 **[Riddhi Sera](https://github.com/riddhisera)**| whee
+**[zestycoder](https://github.com/zestycoder)** | Pushing myself towards open source.
