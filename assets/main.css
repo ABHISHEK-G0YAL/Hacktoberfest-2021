@@ -6,15 +6,15 @@ html[data-theme="dark"] {
   --light-text-color: rgb(199, 199, 204);
   --link-color: #f74700;
   --link-color-visited: #ffffff;
-  --main-background-color: #000000;
-  --main-text-color: #dbe8d9;
+  --main-background-color: #142809;
+  --main-text-color: #daf3d1;
   --medium-text-color: hsl(0, 0%, 70%);
   --underline-color: hsl(0, 0%, 50%);
   --social-link-color: #ffffff;
-  --card-background-color: #2b3531;
+  --card-background-color: #000000;
   --newsletter-background-color: #222324;
   --button-background-color: #111;
-  --nav-background-color: #f74700;
+  --nav-background-color: #f52b00;
 }
 
 html, html[data-theme="light"] {
