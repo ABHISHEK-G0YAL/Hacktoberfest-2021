@@ -73,3 +73,4 @@ layout: default
 **[zestycoder](https://github.com/zestycoder)** | Pushing myself towards open source.
 **[Pyi Kyaw](https://github.com/burmanp)** | Learning to code and about to embark on a 16-week bootcamp at School of Code. 
 **[Shubhi Srivastava](https://github.com/shubhi13)** | Student,machine learning is love.
+**[Gaurang Mishra](https://github.com/Gaurangseven)** | Student,helping open source 😀.
